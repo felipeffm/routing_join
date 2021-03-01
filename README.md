@@ -1,5 +1,5 @@
-# Mapbox-Routes
-## Plot and calculate routes in mapbox from plotly
+# routingjoin
+## Plot, calculate and join routes in python
 
 #### This project has two main objectives. 
 
